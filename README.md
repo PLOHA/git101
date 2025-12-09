@@ -1,5 +1,6 @@
 https://drive.google.com/drive/folders/1kmQYPsQ4khq0kxqqsLHEHe-9Ovs9jaRR?usp=sharing
 รูปภาพโดยรวมของโปรเจค / Exxample Photos for preview.
+Details From LOHA's : Asp.net8 core Web API + AdminLTE for prob  
 
 
 Enforced Login & Custom Login UI
