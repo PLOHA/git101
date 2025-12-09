@@ -1,3 +1,7 @@
+https://drive.google.com/drive/folders/1kmQYPsQ4khq0kxqqsLHEHe-9Ovs9jaRR?usp=sharing
+รูปภาพโดยรวมของโปรเจค / Exxample Photos for preview.
+
+
 Enforced Login & Custom Login UI
 I have secured the application by enforcing login globally and redesigned the login page with a premium Black & Red theme.
 
