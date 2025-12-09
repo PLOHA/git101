@@ -179,6 +179,7 @@ wwwroot\AdminLTE\dist\js\adminlte.js
 wwwroot\AdminLTE\dist\js\adminlte.js.map
 wwwroot\AdminLTE\dist\js\adminlte.min.js
 wwwroot\AdminLTE\dist\js\adminlte.min.js.map
+wwwroot\AdminLTE\dist\js\demo.js
 wwwroot\AdminLTE\dist\js\pages\dashboard.js
 wwwroot\AdminLTE\dist\js\pages\dashboard2.js
 wwwroot\AdminLTE\dist\js\pages\dashboard3.js
@@ -2333,6 +2334,7 @@ wwwroot\AdminLTE\plugins\uplot\uPlot.esm.js
 wwwroot\AdminLTE\plugins\uplot\uPlot.iife.js
 wwwroot\AdminLTE\plugins\uplot\uPlot.iife.min.js
 wwwroot\AdminLTE\plugins\uplot\uPlot.min.css
+wwwroot\css\premium-theme.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -2393,4 +2395,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\AdminLTE\dist\js\demo.js

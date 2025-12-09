@@ -1,0 +1,26 @@
+
+# Visual Studio
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.json.user
+wwwroot/is-aspnetcore-demo-server.txt
+
+# Environment Variables
+.env
+
+# NodeJS
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS
+Thumbs.db
+.DS_Store
